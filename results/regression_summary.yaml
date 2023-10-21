@@ -1,0 +1,26 @@
+"                                    OLS Regression Results                      \
+  \             \n=============================================================================================\n\
+  Dep. Variable:     income_final_difference_2021-2019   R-squared:              \
+  \         0.000\nModel:                                           OLS   Adj. R-squared:\
+  \                 -0.056\nMethod:                                Least Squares \
+  \  F-statistic:                 8.210e-05\nDate:                               Thu,\
+  \ 19 Oct 2023   Prob (F-statistic):              0.993\nTime:                  \
+  \                     14:43:11   Log-Likelihood:                -160.39\nNo. Observations:\
+  \                                 20   AIC:                             324.8\n\
+  Df Residuals:                                     18   BIC:                    \
+  \         326.8\nDf Model:                                          1          \
+  \                               \nCovariance Type:                           nonrobust\
+  \                                         \n==============================================================================================\n\
+  \                                 coef    std err          t      P>|t|      [0.025\
+  \      0.975]\n----------------------------------------------------------------------------------------------\n\
+  const                       -766.8389    227.792     -3.366      0.003   -1245.412\
+  \    -288.266\nCases_Difference_2022-2020    -0.0003      0.037     -0.009     \
+  \ 0.993      -0.079       0.078\n==============================================================================\n\
+  Omnibus:                       12.576   Durbin-Watson:                   1.479\n\
+  Prob(Omnibus):                  0.002   Jarque-Bera (JB):               11.118\n\
+  Skew:                          -1.299   Prob(JB):                      0.00385\n\
+  Kurtosis:                       5.567   Cond. No.                     7.99e+03\n\
+  ==============================================================================\n\
+  \nNotes:\n[1] Standard Errors assume that the covariance matrix of the errors is\
+  \ correctly specified.\n[2] The condition number is large, 7.99e+03. This might\
+  \ indicate that there are\nstrong multicollinearity or other numerical problems."

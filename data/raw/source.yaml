@@ -1,0 +1,12 @@
+conposcovidloc.csv.dvc:
+  description: Confirmed positive cases of COVID-19 in Ontario - Data Dictionary
+  obtained: '2023-10-18'
+  source: https://open.canada.ca/data/en/dataset/f4112442-bdc8-45d2-be3c-12efae72fb27/resource/2772b3db-9f1c-4669-87f8-8fcab4db6e46
+income.csv.dvc:
+  description: Labour income profile of tax filers by sex
+  obtained: '2023-10-18'
+  source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110003101&pickMembers%5B0%5D=1.82&cubeTimeFrame.startYear=2019&cubeTimeFrame.endYear=2021&referencePeriods=20190101%2C20210101
+population.csv.dvc:
+  description: 'Population and dwelling counts: Canada and population centres'
+  obtained: '2023-10-19'
+  source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810001101
